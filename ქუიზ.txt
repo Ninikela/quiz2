@@ -1,0 +1,59 @@
+ //დავალება 2
+            //string a = string.Empty;
+            //Console.WriteLine("Enter your Word/s!");
+            //a = Console.ReadLine();
+            //char[] palindrome = a.ToCharArray();
+            //Array.Reverse(palindrome);
+            //string b = new string(palindrome);
+            //if (a.ToLower().Equals(b.ToLower()))
+            //{
+            //    Console.WriteLine("You enter the Palindrome");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("You enter the notPalindrome");
+            //}
+
+            // დავალება 1
+
+            //Console.Write("Enter array size ");
+            //int arraySize = int.Parse(Console.ReadLine()); 
+            //int[] myArray = new int[arraySize];
+            //for (int i = 0; i <myArray.Length; i++)
+            //{
+            //    Console.WriteLine($"please write array elements:{i} ");
+            //    myArray[i]=int.Parse(Console.ReadLine());
+            // }
+
+            //int oddSum = 0;
+            //int evenSum = 0;
+            //for (int i = 0; i < myArray.Length; i++)
+            //{
+            //    if (myArray[i] % 2 != 0)
+            //    {
+            //        oddSum += myArray[i];
+            //    }
+            //    if (myArray[i] % 2 == 0)
+            //    {
+            //        evenSum*= myArray[i];
+            //    }
+
+            //}
+            //Console.WriteLine($" odd number sum {oddSum}"); 
+            //Console.WriteLine($" even number multiple {evenSum}");
+            //Console.WriteLine($" my array length {myArray.Length}");
+
+
+            // დავალება 4
+            //int[] array = new int[] { 1, 2, 3, 2, 2, 2, 2, 2, 9 };
+            //int i, j;
+            //for (i = 0; i < array.Length - 1; i++)
+            //{
+            //    for (j = i + 1; j < array.Length; j++)
+            //    {
+            //        if (array[i] == array[j])
+            //        {
+            //            Console.WriteLine(array[i] + " ");
+            //        }
+            //    }
+            //}
